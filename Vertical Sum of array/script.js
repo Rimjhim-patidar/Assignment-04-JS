@@ -20,6 +20,6 @@ function verticalSum(array, fieldName) {
     { name: "PC", price: 200000, qty: 20 }
   ];
 
-  console.log("Total Price:", verticalSum(products, "price")); 
+  console.log("Total Price:", verticalSum(products, "price"));
   console.log("Total Qty:", verticalSum(products, "qty")); 
   
